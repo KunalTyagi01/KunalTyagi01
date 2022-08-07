@@ -1,21 +1,21 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-d9db3394a0.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 <h3 align="center">A passionate frontend And Backend developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif")
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltyagi01" /> </p>
 
 
-align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaltyagi01" alt="kunaltyagi01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaltyagi01" alt="kunaltyagi01" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin , JavaScript**
+- 🌱 I’m currently learning: **Kotlin , JavaScript**
 
-- 💬 Ask me about **C , C++, DSA,**
+- 💬 Ask me about: **C , C++, DSA,**
 
-- 📫 How to reach me **kunaltyagi502@gmail.com**
+- 📫 How to reach me: **kunaltyagi502@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact: **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
