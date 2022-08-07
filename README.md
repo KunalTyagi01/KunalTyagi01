@@ -1,9 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 <h3 align="center">A passionate frontend And Backend developer from India</h3>
-
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltyagi01" /> </p>
 
 
@@ -31,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunaltyagi01&show_icons=true&locale=en" alt="kunaltyagi01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltyagi01&" alt="kunaltyagi01" /></p>
+
 
